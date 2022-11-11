@@ -1,0 +1,8 @@
+{
+  "policies": {
+    "Extensions": {
+	"Locked": ["{dd3d7613-0246-469d-bc65-2a3cc1668adc}"]
+	},	
+    "DisablePrivateBrowsing": true
+  }
+}
